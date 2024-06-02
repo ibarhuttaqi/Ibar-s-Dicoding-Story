@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LoginWithAnimation</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Unggah dan bagikan cerita Anda dengan mudah. Ambil foto, tambahkan deskripsi, dan biarkan dunia melihat kisah Anda. Mulai sekarang dan nikmati pengalaman pengguna yang mulus dan interaktif!</string>
+    <string name="title_welcome_page">Selamat datang di Ibar\'s Story!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk bagikan cerita anda?</string>
+    <string name="name">Nama</string>
+    <!--    <string name="message_main_page">Selamat Belajar di Dicoding.</string>-->
+<!--    <string name="greeting">Halo %1$s,</string>-->
+    <string name="logout">Keluar</string>
+    <string name="username">username</string>
+    <string name="textview">Description</string>
+    <string name="story_title">story title</string>
+    <string name="story_description">story description\n</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="empty_desc_warning">Silakan masukkan deskripsi terlebih dahulu.</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map_menu">map</string>
+    <string name="add_location">Add Your Location</string>
+    <string name="retry">Coba lagi</string>
+</resources>
